@@ -1,5 +1,5 @@
 # Recursive-Implementation-of-a-Feed-Forward-Neural-Network
-A simple neural network with forward and back-propagation implemented using recursion.
+A simple neural network in which forward and back-propagation are implemented using recursion.
 
 This code implements a simple feed-forward neural network. However, the forward and backpropagation steps are
 implemented as a single recursive function and the stack as a cache for all the values required in these steps
